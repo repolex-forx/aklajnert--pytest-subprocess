@@ -3,6 +3,11 @@
   "repo": "pytest-subprocess",
   "versions": [
     {
+      "commit": "b783eeaa439a9db248e12df9299dcd13f4e4326c",
+      "tag": "1.5.4",
+      "parsed_at": "2026-11-22T08:56:11.399674+00:00"
+    },
+    {
       "commit": "c24b26cb0bb23159244bfa103db660afaf4f24f6",
       "tag": "",
       "parsed_at": "2026-11-06T03:02:25.016794+00:00"
